@@ -1,0 +1,11 @@
+node_modules
+sam.json
+sam.yaml
+static.json
+.env
+prefs.env
+preferences.env
+.DS_Store
+public/static.json
+public/bundles
+package-lock.json
